@@ -1,1 +1,1 @@
-motto test
+motto ippai test
