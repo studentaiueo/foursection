@@ -1,3 +1,3 @@
 motto ippai test shitai
 
-—Ç‚¢‚¨”N‚ğII
+è‰¯ã„ãŠå¹´ã‚’ï¼ï¼
