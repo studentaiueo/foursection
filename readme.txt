@@ -4,3 +4,4 @@ wakewakannai
 gumiichigopine
 newfunction!
 コンフリクトの解決のテスト
+test
