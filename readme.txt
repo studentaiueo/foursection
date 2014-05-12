@@ -1,7 +1,5 @@
-motto ippai test shitai
-wakewakannai
-良いお年玉を！！
 gumiichigopine
-newfunction!
-コンフリクトの解決のテスト
+newfunction
 test
+gumiichigopine
+motto ippai test shitaipush test
