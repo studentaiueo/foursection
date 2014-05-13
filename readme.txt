@@ -5,3 +5,4 @@ gumiichigopine
 motto ippai test shitai
 push testnew 
 branch by nakaie
+Yes!Yes!Yes!
