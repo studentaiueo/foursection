@@ -1,2 +1,7 @@
+gumiichigopine
+newfunction
+test
+gumiichigopine
 motto ippai test shitai
-new branch by nakaie
+push testnew 
+branch by nakaie
