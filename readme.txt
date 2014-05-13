@@ -2,7 +2,6 @@ gumiichigopine
 newfunction
 test
 gumiichigopine
-motto ippai test shitai
-push testnew 
+motto ippai test shitai push testnew 
 branch by nakaie
 Yes!Yes!Yes!
