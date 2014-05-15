@@ -9,3 +9,4 @@ sakuma sakuma
 コンフリクト上等
 miyamoto
 gotoh
+EUCになってたよ
