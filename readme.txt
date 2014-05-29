@@ -1,7 +1,6 @@
 gumiichigopine
 newfunction
 test
-gumiichigopine
 motto ippai test shitaipush test
 sakuma
 new branch by nakaie
