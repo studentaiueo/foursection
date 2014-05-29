@@ -4,9 +4,9 @@ test
 gumiichigopine
 motto ippai test shitaipush test
 sakuma
+new branch by nakaie
 kaneko_
+Yes!Yes!Yes!
 sakuma sakuma
-コンフリクト上等
 miyamoto
 gotoh
-このファイルEUCになってるよ
