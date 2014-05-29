@@ -3,3 +3,6 @@ testes
 newfunction_test
 newnew
 newnew2
+
+gumi wrote
+gumi wrote second
