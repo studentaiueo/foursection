@@ -9,3 +9,4 @@ Yes!Yes!Yes!
 sakuma sakuma
 miyamoto
 gotoh
+norita
