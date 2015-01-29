@@ -3,9 +3,14 @@ test
 test 11111
 test
 test
+<<<<<<< HEAD
 test2
 ああああああ
 
 test1
 test2
 aaaaa
+=======
+test
+test150122
+>>>>>>> test02
