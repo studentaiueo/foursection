@@ -3,3 +3,5 @@ testes
 newfunction_test
 newnew
 newnew2
+
+テスト
